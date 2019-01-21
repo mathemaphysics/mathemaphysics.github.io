@@ -16,13 +16,13 @@ comments: true
 
 var disqus_config = function () {
 this.page.url = 'https://mathemaphysics.github.io';  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = 'codogenydn_home'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.identifier = 'codogenydn1928349'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 this.page.title = 'CodogenyDN Home';
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://codogenydn.disqus.com/embed.js';
+s.src = '//codogenydn.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
