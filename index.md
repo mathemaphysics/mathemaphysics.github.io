@@ -11,6 +11,14 @@ This is an equation:
 <script type="math/tex">\displaystyle f(x) = \int_0^1 g(x-y) u(y) dy</script>
 </p>
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
