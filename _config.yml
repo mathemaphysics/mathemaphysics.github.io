@@ -16,13 +16,8 @@
 title: CodogenyDN
 email: mathemaphysics@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-        I'm a simulation chemical physicist and technical programmer
-        who has a lot of experience in both statistical mechanics and
-        ab initio simulation. I've spent most of my time as a programmer
-        attempting to elucidate the dynamical details of glassy substances,
-        a problem which constitutes one of the biggest problems of modern
-        physics.
-baseurl: "" # the subpath of your site, e.g. /blog
+        Trying to make better simulations
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mathemaphysics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NuckChorris16
 github_username:  mathemaphysics
