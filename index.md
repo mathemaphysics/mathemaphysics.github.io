@@ -5,8 +5,11 @@
 layout: default
 comments: true
 ---
-
-This is an equation: <script type="math/tex">f(x) = \int_0^1 g(x-y) u(y) dy</script>
+<h2>Hopefully something interesting will happen here soon.</h2>
+<p>
+This is an equation:
+<script type="math/tex">\displaystyle f(x) = \int_0^1 g(x-y) u(y) dy</script>
+</p>
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
