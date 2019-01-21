@@ -6,6 +6,8 @@ layout: default
 comments: true
 ---
 
+This is an equation: <script type="math/tex">f(x) = \int_0^1 g(x-y) u(y) dy</script>
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
@@ -31,4 +33,8 @@ s.setAttribute('data-timestamp', +new Date());
                             
 <!-- <script id="dsq-count-scr" src="//codogenydn.disqus.com/count.js" async></script> -->
 {% endif %}
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
