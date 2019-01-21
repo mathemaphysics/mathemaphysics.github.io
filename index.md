@@ -6,6 +6,7 @@ layout: default
 comments: true
 ---
 
+<?php print("hello there");/>
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
