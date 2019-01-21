@@ -16,7 +16,7 @@ comments: true
 
 var disqus_config = function () {
 this.page.url = "https://mathemaphysics.github.io";  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = "jkfi23hj4lkdf8u"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.identifier = "index.html"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
