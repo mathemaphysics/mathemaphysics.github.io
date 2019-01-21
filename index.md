@@ -16,19 +16,19 @@ comments: true
 
 var disqus_config = function () {
 this.page.url = 'https://mathemaphysics.github.io';  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = 'graphomaniahome'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-this.page.title = 'Graphomania Home';
+this.page.identifier = 'codogenydn_home'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.title = 'CodogenyDN Home';
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = 'https://graphomania.disqus.com/embed.js';
+s.src = 'https://codogenydn.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             
-<script id="dsq-count-scr" src="//graphomania.disqus.com/count.js" async></script>
+<script id="dsq-count-scr" src="//codogenydn.disqus.com/count.js" async></script>
 {% endif %}
 
