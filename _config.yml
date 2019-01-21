@@ -21,7 +21,6 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mathemaphysics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NuckChorris16
 github_username:  mathemaphysics
-repository: neural
 
 # Build settings
 markdown: kramdown
@@ -30,6 +29,9 @@ plugins:
   - jekyll-feed
 
 github: [metadata]
+github.repository_url: https://github.com/mathemaphysics/neural
+github.zip_url: https://github.com
+github.tar_url: https://github.com
 show_downloads: true
 
 # Exclude from processing.
