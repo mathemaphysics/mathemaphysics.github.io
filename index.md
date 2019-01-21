@@ -4,7 +4,7 @@
 
 layout: default
 comments: true
-site.show_downloads: true
+show_downloads: true
 ---
 <h2>Hopefully something interesting will happen here soon.</h2>
 <p>
