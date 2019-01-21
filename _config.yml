@@ -21,7 +21,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mathemaphysics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NuckChorris16
 github_username:  mathemaphysics
-repository: mathemaphysics/neural
+repository: neural
 
 # Build settings
 markdown: kramdown
