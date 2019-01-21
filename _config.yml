@@ -29,9 +29,6 @@ plugins:
   - jekyll-feed
 
 github: [metadata]
-github.repository_url: https://github.com/mathemaphysics/neural
-github.zip_url: https://github.com
-github.tar_url: https://github.com
 show_downloads: true
 
 # Exclude from processing.
