@@ -11,9 +11,13 @@ Topics I Follow
 
 If you look through my papers, you'll probably find mostly journal articles related to room-temperature ionic liquids (abbreviated RTILs). Specifically, you'll find articles which make use of mostly classical mechanics to simulate them. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Here's an example of some code in python. Hopefully it will show up correctly. Also I need to make sure your facilities are capable of rendering equations correctly.
 
-Jekyll also offers powerful support for code snippets:
+For example, the following equation is what we should expect if we assume $\phi$ is a reproducing kernel function on the Banach space in which $u$ lives.
+
+$$
+u(x) = \int_D \phi(x-y)\,u(y)\,dy
+$$
 
 {% highlight python %}
 import numpy as np
