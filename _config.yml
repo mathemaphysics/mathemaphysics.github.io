@@ -24,7 +24,7 @@ github_username:  mathemaphysics
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
