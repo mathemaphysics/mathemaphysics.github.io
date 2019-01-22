@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
 <link href="https://mathemaphysics.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://mathemaphysics.github.io//" rel="alternate" type="text/html" />
-<updated>2019-01-21T18:28:20-06:00</updated>
+<updated>2019-01-21T18:37:14-06:00</updated>
 <id>https://mathemaphysics.github.io//</id>
 <subtitle>Trying to make better simulations</subtitle>
 <entry>
@@ -12,7 +12,9 @@
 <published>2019-01-21T05:56:49-06:00</published>
 <updated>2019-01-21T05:56:49-06:00</updated>
 <id>https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness</id>
-<content type="html" xml:base="https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html">&lt;p&gt;Welcome to my new attempt at a functional website. My interests are pretty wide, so you’ll have to forgive me if I seem to jump from topic to topic. On the other hand, you might also discover that fairly disparate topics are actually much more closely related.&lt;/p&gt;
+<content type="html" xml:base="https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html">&lt;h1 id=&quot;why-im-here&quot;&gt;Why I’m Here&lt;/h1&gt;
+
+&lt;p&gt;Welcome to my new attempt at a functional website. My interests are pretty wide, so you’ll have to forgive me if I seem to jump from topic to topic. On the other hand, you might also discover that fairly disparate topics are actually much more closely related.&lt;/p&gt;
 
 &lt;h1 id=&quot;topics-i-follow&quot;&gt;Topics I Follow&lt;/h1&gt;
 
@@ -45,7 +47,7 @@ import seaborn as sns&lt;/p&gt;
 &lt;/ul&gt;
 
 </content>
-<summary>Welcome to my new attempt at a functional website. My interests are pretty wide, so you’ll have to forgive me if I seem to jump from topic to topic. On the other hand, you might also discover that fairly disparate topics are actually much more closely related.</summary>
+<summary>Why I’m Here</summary>
 </entry>
 <entry>
 <title>Welcome to Jekyll!</title>

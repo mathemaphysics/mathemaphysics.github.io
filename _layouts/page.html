@@ -1,26 +1,32 @@
 ---
 layout: default
-title: Test Page
+comments: true
 ---
 
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>{{ page.title }}</title>
-		<link rel="stylesheet" href="/css/style.css">
-	</head>
-	<body>
-		<nav>
-			<a href="/">Home</a>
-			<a href="/blog/">Blog</a>
-		</nav>
-		<h1>{{ page.title }}</h1>
-		<section>
-			{{ content }}
-		</section>
-		<footer>
-			&copy; to me
-		</footer>
-	</body>
-</html>
+{{ content }}
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://mathemaphysics.github.io';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = 'codogenydn_home'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+this.page.title = 'CodogenyDN Home';
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://codogenydn.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
+<!-- <script id="dsq-count-scr" src="//codogenydn.disqus.com/count.js" async></script> -->
+{% endif %}
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
