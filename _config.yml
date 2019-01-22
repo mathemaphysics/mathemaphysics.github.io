@@ -28,9 +28,15 @@ theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
-github: [metadata]
+# Disqus Comments
+# Leave shortname blank to disable comments site-wide.
+# Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+disqus:
+  shortname: codogenydn
 
-show_downloads: false
+#github: [metadata]
+
+#show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
