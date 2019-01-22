@@ -1,9 +1,5 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
-comments: true
 show_downloads: true
 ---
 <h2>Hopefully something interesting will happen here soon.</h2>
@@ -20,31 +16,6 @@ This is an equation:
   {% endfor %}
 </ul>
 
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-
-var disqus_config = function () {
-this.page.url = 'https://mathemaphysics.github.io';  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = 'codogenydn_home'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-this.page.title = 'CodogenyDN Home';
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://codogenydn.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                            
-<!-- <script id="dsq-count-scr" src="//codogenydn.disqus.com/count.js" async></script> -->
-{% endif %}
 <!-- Mathjax Support -->
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
