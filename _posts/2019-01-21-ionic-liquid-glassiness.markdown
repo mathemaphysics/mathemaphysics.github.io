@@ -15,16 +15,25 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+{% highlight python %}
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+for i in range(10):
+    print('This is %3d' % i)
+
+quit()
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+My Repositories
+===============
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I've built a number of repositories over time.
+
+- [Math Repository][repo_math]
+- [RBN Repository][repo_neural]
+
+[repo_math]:   https://github.com/mathemaphysics/math
+[repo_neural]: https://github.com/mathemaphysics/neural
+
