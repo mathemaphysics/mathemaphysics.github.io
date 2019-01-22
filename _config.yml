@@ -34,7 +34,7 @@ plugins:
 disqus:
   shortname: codogenydn
 
-#github: [metadata]
+github: [metadata]
 
 #show_downloads: false
 
