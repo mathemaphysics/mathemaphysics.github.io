@@ -17,7 +17,6 @@ title: CodogenyDN
 email: mathemaphysics@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
         Trying to make better simulations
-baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mathemaphysics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NuckChorris16
 github_username:  mathemaphysics
@@ -28,12 +27,9 @@ theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
-#github: [metadata]
-github:
-  - tar_url: https://www.yahoo.com
-  - zip_url: https://mail.google.com 
+github: [metadata]
 
-show_downloads: true
+show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
