@@ -3,6 +3,7 @@ layout: default
 title:  "Welcome to CodogenyDN"
 date:   2019-01-21 05:56:49 -0600
 categories: thermodynamics physics deeplearn
+comments: true
 ---
 Welcome to my new attempt at a functional website. My interests are pretty wide, so you'll have to forgive me if I seem to jump from topic to topic. On the other hand, you might also discover that fairly disparate topics are actually much more closely related.
 
