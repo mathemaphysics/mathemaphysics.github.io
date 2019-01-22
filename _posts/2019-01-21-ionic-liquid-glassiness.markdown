@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Welcome to CodogenyDN"
+title:  "Welcome_to_CodogenyDN"
 date:   2019-01-21 05:56:49 -0600
 categories: thermodynamics physics deeplearn
 comments: true
