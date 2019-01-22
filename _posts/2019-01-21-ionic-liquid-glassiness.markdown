@@ -13,7 +13,7 @@ If you look through my papers, you'll probably find mostly journal articles rela
 
 Here's an example of some code in python. Hopefully it will show up correctly. Also I need to make sure your facilities are capable of rendering equations correctly.
 
-For example, the following equation is what we should expect if we assume $\phi$ is a reproducing kernel function on the Banach space in which $u$ lives.
+For example, the following equation is what we should expect if we assume \$$ \phi $$ is a reproducing kernel function on the Banach space in which \$$ u $$ lives.
 
 $$
 u(x) = \int_D \phi(x-y)\,u(y)\,dy
