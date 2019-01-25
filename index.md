@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 <h2>Hopefully something interesting will happen here soon.</h2>
 
@@ -10,3 +11,4 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+{% include disqus_comments.html %}
