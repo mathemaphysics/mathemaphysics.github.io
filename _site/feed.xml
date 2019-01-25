@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
 <link href="https://mathemaphysics.github.io//feed.xml" rel="self" type="application/atom+xml" />
 <link href="https://mathemaphysics.github.io//" rel="alternate" type="text/html" />
-<updated>2019-01-25T03:29:30-06:00</updated>
+<updated>2019-01-25T14:24:21-06:00</updated>
 <id>https://mathemaphysics.github.io//</id>
 <subtitle>Trying to make better simulations</subtitle>
 <entry>
@@ -17,6 +17,10 @@ Widmer-Cooper et al.  using the topic of using the dynamic propensity to give
 insight into the dynamics of glassy liquids. The topic came up in my line of
 work as a result of its potential applications in understanding the
 relationship between molecular structure and bulk viscosity.&lt;/p&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;{% bibliography –file refs %}&lt;/p&gt;
 
 </content>
 <summary>There have been some more or less recent journal articles written by AsaphWidmer-Cooper et al.  using the topic of using the dynamic propensity to giveinsight into the dynamics of glassy liquids. The topic came up in my line ofwork as a result of its potential applications in understanding therelationship between molecular structure and bulk viscosity.</summary>
