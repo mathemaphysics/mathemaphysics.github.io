@@ -34,12 +34,12 @@ plugins:
 disqus:
   shortname: codogenydn
 
-  #scholar:
-  #  style: apa
+#scholar:
+#  style: apa
 
 github: [metadata]
 
-#show_downloads: false
+show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
