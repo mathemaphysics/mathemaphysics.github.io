@@ -3,7 +3,7 @@
 <generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
 <link href="http://localhost:4000//feed.xml" rel="self" type="application/atom+xml" />
 <link href="http://localhost:4000//" rel="alternate" type="text/html" />
-<updated>2019-01-24T21:25:07-06:00</updated>
+<updated>2019-01-24T22:49:06-06:00</updated>
 <id>http://localhost:4000//</id>
 <subtitle>Trying to make better simulations</subtitle>
 <entry>
@@ -12,9 +12,21 @@
 <published>2019-01-24T21:23:49-06:00</published>
 <updated>2019-01-24T21:23:49-06:00</updated>
 <id>http://localhost:4000//physics/simulation/2019/01/24/computing-propensity</id>
-<content type="html" xml:base="http://localhost:4000//physics/simulation/2019/01/24/computing-propensity.html">
+<content type="html" xml:base="http://localhost:4000//physics/simulation/2019/01/24/computing-propensity.html">&lt;p&gt;There have been some more or less recent journal articles written
+by Asaph Widmer-Cooper {% cite Tokuda2005 –file refs %} et al.
+using the topic of using the dynamic propensity to give insight
+into the dynamics of glassy liquids. The topic came up in my line
+of work as a result of its potential applications in
+understanding the relationship between molecular structure and
+bulk viscosity.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;{% bibliography –file refs %}&lt;/p&gt;
+
+&lt;h1 id=&quot;vim-tw65&quot;&gt;vim: tw=65&lt;/h1&gt;
 </content>
-<summary></summary>
+<summary>There have been some more or less recent journal articles writtenby Asaph Widmer-Cooper (Tokuda, Hayamizu, Ishii, Susan, &amp;amp; Watanabe, 2005) et al.using the topic of using the dynamic propensity to give insightinto the dynamics of glassy liquids. The topic came up in my lineof work as a result of its potential applications inunderstanding the relationship between molecular structure andbulk viscosity.</summary>
 </entry>
 <entry>
 <title>Welcome to CodogenyDN</title>

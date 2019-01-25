@@ -27,6 +27,7 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-scholar
 
 # Disqus Comments
 # Leave shortname blank to disable comments site-wide.
@@ -35,11 +36,11 @@ disqus:
   shortname: codogenydn
 
 scholar:
-  style: mla
+  style: apa
 
 github: [metadata]
 
-#show_downloads: false
+show_downloads: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

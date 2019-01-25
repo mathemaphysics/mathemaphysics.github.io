@@ -3,7 +3,6 @@ layout: post
 title:  "Welcome to CodogenyDN"
 date:   2019-01-21 05:56:49 -0600
 categories: thermodynamics physics deeplearn
-comments: true
 ---
 
 Why I'm Here
