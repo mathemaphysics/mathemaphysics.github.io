@@ -27,7 +27,13 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-redirect-from
   - jekyll-scholar
+  - jekyll-avatar
+  - jemoji
 
 # Disqus Comments
 # Leave shortname blank to disable comments site-wide.

@@ -21,6 +21,12 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-scholar", "~> 5.14.0"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+  gem "jekyll-mentions"
+  gem "jekyll-redirect-from"
+  gem "jekyll-avatar"
+  gem "jemoji"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
