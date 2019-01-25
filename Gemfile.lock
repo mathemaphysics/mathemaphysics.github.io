@@ -258,15 +258,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-avatar
   jekyll-feed (~> 0.6)
-  jekyll-mentions
-  jekyll-redirect-from
   jekyll-scholar (~> 5.14.0)
-  jekyll-seo-tag
-  jekyll-sitemap
   jekyll-theme-cayman (~> 0.1.1)
-  jemoji
   tzinfo-data
 
 BUNDLED WITH
