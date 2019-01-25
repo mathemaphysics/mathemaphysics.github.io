@@ -34,6 +34,9 @@ plugins:
 disqus:
   shortname: codogenydn
 
+scholar:
+  style: mla
+
 github: [metadata]
 
 #show_downloads: false

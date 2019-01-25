@@ -5,3 +5,12 @@ title: "Calculating Propensity for Motion"
 categories: physics simulation
 comments: false
 ---
+
+There have been some more or less recent journal articles written by
+Asaph Widmer-Cooper et al. using the topic of using the dynamic propensity
+to give insight into the dynamics of glassy liquids. The topic came up in
+my line of work as a result of its potential applications in understanding
+the relationship between molecular structure and bulk viscosity.
+
+{% bibliography --file refs-bib %}
+
