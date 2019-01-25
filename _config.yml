@@ -27,6 +27,7 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+  - jekyll-scholar
 
 # Disqus Comments
 # Leave shortname blank to disable comments site-wide.
@@ -34,8 +35,8 @@ plugins:
 disqus:
   shortname: codogenydn
 
-#scholar:
-#  style: apa
+scholar:
+  style: apa
 
 github: [metadata]
 
