@@ -35,8 +35,8 @@ plugins:
 disqus:
   shortname: codogenydn
 
-scholar:
-  style: apa
+  #scholar:
+  #  style: apa
 
 github: [metadata]
 
