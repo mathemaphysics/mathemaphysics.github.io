@@ -20,7 +20,7 @@ Here's an example of some code in python. Hopefully it will show up correctly. A
 My Repositories
 ===============
 
-I've built a number of repositories over time.
+I've built a number of repositories over time. Here are a couple to take a look at.
 
 - [Math Repository][repo_math]
 - [RBN Repository][repo_neural]
