@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
+<link href="https://mathemaphysics.github.io//feed.xml" rel="self" type="application/atom+xml" />
+<link href="https://mathemaphysics.github.io//" rel="alternate" type="text/html" />
+<updated>2019-01-25T19:39:45-06:00</updated>
+<id>https://mathemaphysics.github.io//</id>
+<subtitle>Trying to make better simulations</subtitle>
+<entry>
+<title>Calculating Propensity for Motion</title>
+<link href="https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity.html" rel="alternate" type="text/html" title="Calculating Propensity for Motion" />
+<published>2019-01-24T21:23:49-06:00</published>
+<updated>2019-01-24T21:23:49-06:00</updated>
+<id>https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity</id>
+<content type="html" xml:base="https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity.html">&lt;p&gt;There have been some more or less recent journal articles written by Asaph
+Widmer-Cooper et al. {% cite –file refs Tokuda2005 %} using the topic of using
+the dynamic propensity to give insight into the dynamics of glassy liquids. The
+topic came up in my line of work as a result of its potential applications in
+understanding the relationship between molecular structure and bulk viscosity.&lt;/p&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+
+&lt;p&gt;{% bibliography –file refs %}&lt;/p&gt;
+
+</content>
+<summary>There have been some more or less recent journal articles written by AsaphWidmer-Cooper et al.  using the topic of usingthe dynamic propensity to give insight into the dynamics of glassy liquids. Thetopic came up in my line of work as a result of its potential applications inunderstanding the relationship between molecular structure and bulk viscosity.</summary>
+</entry>
+<entry>
+<title>Welcome to CodogenyDN</title>
+<link href="https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html" rel="alternate" type="text/html" title="Welcome to CodogenyDN" />
+<published>2019-01-21T05:56:49-06:00</published>
+<updated>2019-01-21T05:56:49-06:00</updated>
+<id>https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness</id>
+<content type="html" xml:base="https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html">&lt;h1 id=&quot;why-im-here&quot;&gt;Why I’m Here&lt;/h1&gt;
+
+&lt;p&gt;Welcome to my new attempt at a functional website. My interests are pretty wide, so you’ll have to forgive me if I seem to jump from topic to topic. On the other hand, you might also discover that fairly disparate topics are actually much more closely related.&lt;/p&gt;
+
+&lt;h1 id=&quot;topics-i-follow&quot;&gt;Topics I Follow&lt;/h1&gt;
+
+&lt;p&gt;If you look through my papers, you’ll probably find mostly journal articles related to room-temperature ionic liquids (abbreviated RTILs). Specifically, you’ll find articles which make use of mostly classical mechanics to simulate them.&lt;/p&gt;
+
+&lt;p&gt;Here’s an example of some code in python. Hopefully it will show up correctly. Also I need to make sure your facilities are capable of rendering equations correctly.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-repositories&quot;&gt;My Repositories&lt;/h1&gt;
+
+&lt;p&gt;I’ve built a number of repositories over time. Here are a couple to take a look at.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mathemaphysics/math&quot;&gt;Math Repository&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mathemaphysics/neural&quot;&gt;RBN Repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+<summary>Why I’m Here</summary>
+</entry>
+<entry>
+<title>Welcome to Jekyll!</title>
+<link href="https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
+<published>2019-01-20T09:15:25-06:00</published>
+<updated>2019-01-20T09:15:25-06:00</updated>
+<id>https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll</id>
+<content type="html" xml:base="https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;p&gt;{% highlight ruby %}
+def print_hi(name)
+  puts “Hi, #{name}”
+end
+print_hi(‘Tom’)
+#=&amp;gt; prints ‘Hi, Tom’ to STDOUT.
+{% endhighlight %}&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+<summary>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary>
+</entry>
+</feed>

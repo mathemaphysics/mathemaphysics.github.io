@@ -30,7 +30,7 @@ plugins:
   - jekyll-scholar
 
 feed:
-  path: "/feed.xml"
+  path: feed.xml
 
 # Disqus Comments
 # Leave shortname blank to disable comments site-wide.
