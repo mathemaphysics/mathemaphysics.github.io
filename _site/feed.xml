@@ -1,38 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="http://jekyllrb.com" version="3.7.4">Jekyll</generator>
-<link href="https://mathemaphysics.github.io/feed.xml" rel="self" type="application/atom+xml" />
-<link href="https://mathemaphysics.github.io/" rel="alternate" type="text/html" />
-<updated>2019-01-25T21:09:12-06:00</updated>
-<id>https://mathemaphysics.github.io/</id>
-<title>CodogenyDN: Field Notes</title>
-<subtitle>Trying to make better simulations</subtitle>
-<entry>
-<title>Calculating Propensity for Motion</title>
-<link href="https://mathemaphysics.github.io/physics/simulation/2019/01/24/computing-propensity.html" rel="alternate" type="text/html" title="Calculating Propensity for Motion" />
-<published>2019-01-24T21:23:49-06:00</published>
-<updated>2019-01-24T21:23:49-06:00</updated>
-<id>https://mathemaphysics.github.io/physics/simulation/2019/01/24/computing-propensity</id>
-<content type="html" xml:base="https://mathemaphysics.github.io/physics/simulation/2019/01/24/computing-propensity.html">&lt;p&gt;There have been some more or less recent journal articles written by Asaph
-Widmer-Cooper et al. {% cite –file refs Tokuda2005 %} using the topic of using
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>CodogenyDN: Field Notes</title>
+		<description>Trying to make better simulations</description>
+		<link>https://mathemaphysics.github.io</link>
+		<atom:link href="https://mathemaphysics.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Calculating Propensity for Motion</title>
+			<description>&lt;p&gt;There have been some more or less recent journal articles written by Asaph
+Widmer-Cooper et al. &lt;a href=&quot;#&quot;&gt;&lt;/a&gt; using the topic of using
 the dynamic propensity to give insight into the dynamics of glassy liquids. The
 topic came up in my line of work as a result of its potential applications in
 understanding the relationship between molecular structure and bulk viscosity.&lt;/p&gt;
 
 &lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
 
-&lt;p&gt;{% bibliography –file refs %}&lt;/p&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Tokuda2005&quot;&gt;Tokuda, H., Hayamizu, K., Ishii, K., Susan, M. A. B. H., &amp;amp; Watanabe, M. (2005). Physicochemical Properties and Structures of Room Temperature Ionic Liquids. 2. Variation of Alkyl Chain Length in Imidazolium Cation. &lt;i&gt;J. Phys. Chem. B&lt;/i&gt;, &lt;i&gt;109&lt;/i&gt;(13), 6103–6110.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Abbott2007&quot;&gt;Abbott, A. P., Harris, R. C., &amp;amp; Ryder, K. S. (2007). Application of Hole Theory to Define Ionic Liquids by their Transport Properties. &lt;i&gt;J. Phys. Chem. B&lt;/i&gt;, &lt;i&gt;111&lt;/i&gt;(18), 4910–4913.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span id=&quot;Abdul-Sada1990&quot;&gt;Abdul-Sada, A. K., Al-Juaid, S., Greenway, A. M., Hitchcock, P. B., Howells, M. J., Seddon, K. R., &amp;amp; Welton, T. (1990). Upon the hydrogen-bonding ability of the H4 and H5 protons of the imidazolium cation. &lt;i&gt;Struct Chem&lt;/i&gt;, &lt;i&gt;1&lt;/i&gt;(4), 391–394.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
-</content>
-<summary>There have been some more or less recent journal articles written by AsaphWidmer-Cooper et al.  using the topic of usingthe dynamic propensity to give insight into the dynamics of glassy liquids. Thetopic came up in my line of work as a result of its potential applications inunderstanding the relationship between molecular structure and bulk viscosity.</summary>
-</entry>
-<entry>
-<title>Welcome to CodogenyDN</title>
-<link href="https://mathemaphysics.github.io/thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html" rel="alternate" type="text/html" title="Welcome to CodogenyDN" />
-<published>2019-01-21T05:56:49-06:00</published>
-<updated>2019-01-21T05:56:49-06:00</updated>
-<id>https://mathemaphysics.github.io/thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness</id>
-<content type="html" xml:base="https://mathemaphysics.github.io/thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html">&lt;h1 id=&quot;why-im-here&quot;&gt;Why I’m Here&lt;/h1&gt;
+</description>
+			<pubDate>Thu, 24 Jan 2019 21:23:49 -0600</pubDate>
+			<link>https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity.html</link>
+			<guid isPermaLink="true">https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity.html</guid>
+		</item>
+		
+		<item>
+			<title>Welcome to CodogenyDN</title>
+			<description>&lt;h1 id=&quot;why-im-here&quot;&gt;Why I’m Here&lt;/h1&gt;
 
 &lt;p&gt;Welcome to my new attempt at a functional website. My interests are pretty wide, so you’ll have to forgive me if I seem to jump from topic to topic. On the other hand, you might also discover that fairly disparate topics are actually much more closely related.&lt;/p&gt;
 
@@ -51,32 +47,33 @@ understanding the relationship between molecular structure and bulk viscosity.&l
   &lt;li&gt;&lt;a href=&quot;https://github.com/mathemaphysics/neural&quot;&gt;RBN Repository&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-</content>
-<summary>Why I’m Here</summary>
-</entry>
-<entry>
-<title>Welcome to Jekyll!</title>
-<link href="https://mathemaphysics.github.io/jekyll/update/2019/01/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
-<published>2019-01-20T09:15:25-06:00</published>
-<updated>2019-01-20T09:15:25-06:00</updated>
-<id>https://mathemaphysics.github.io/jekyll/update/2019/01/20/welcome-to-jekyll</id>
-<content type="html" xml:base="https://mathemaphysics.github.io/jekyll/update/2019/01/20/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+</description>
+			<pubDate>Mon, 21 Jan 2019 05:56:49 -0600</pubDate>
+			<link>https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</link>
+			<guid isPermaLink="true">https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</guid>
+		</item>
+		
+		<item>
+			<title>Welcome to Jekyll!</title>
+			<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;p&gt;{% highlight ruby %}
-def print_hi(name)
-  puts “Hi, #{name}”
-end
-print_hi(‘Tom’)
-#=&amp;gt; prints ‘Hi, Tom’ to STDOUT.
-{% endhighlight %}&lt;/p&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
-</content>
-<summary>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary>
-</entry>
-</feed>
+</description>
+			<pubDate>Sun, 20 Jan 2019 09:15:25 -0600</pubDate>
+			<link>https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll.html</link>
+			<guid isPermaLink="true">https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll.html</guid>
+		</item>
+		
+	</channel>
+</rss>
