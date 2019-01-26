@@ -257,6 +257,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  csl-styles (~> 1.0.1.9)
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-scholar

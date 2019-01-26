@@ -43,7 +43,7 @@ disqus:
   shortname: codogenydn
 
 scholar:
-  style: apa
+  style: university-of-york-mla
 
 github: [metadata]
 
