@@ -11,4 +11,5 @@ comments: true
     </li>
   {% endfor %}
 </ul>
+<script src="//rss.bloople.net/?url=https%3A%2F%2Fmathemaphysics.github.io%2Ffeed.xml&showtitle=false&type=js"></script>
 
