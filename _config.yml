@@ -29,6 +29,9 @@ plugins:
   - jekyll-feed
   - jekyll-scholar
 
+feed:
+  path: "/feed.xml"
+
 # Disqus Comments
 # Leave shortname blank to disable comments site-wide.
 # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.

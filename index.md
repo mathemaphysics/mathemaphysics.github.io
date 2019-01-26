@@ -11,4 +11,4 @@ comments: true
     </li>
   {% endfor %}
 </ul>
-{% include disqus_comments.html %}
+
