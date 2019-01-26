@@ -11,5 +11,5 @@ comments: true
     </li>
   {% endfor %}
 </ul>
-<script src="//rss.bloople.net/?url=https%3A%2F%2Fmathemaphysics.github.io%2Ffeed.xml&showtitle=false&type=js"></script>
+<iframe frameborder='0' src='https://www.indiana.edu/~oidd/feedreader/read.php?url=https://mathemaphysics.github.io/feed.xml&maxitems=0&bgcolor1=FFFFFF&bgcolor2=FFFFFF&sort=published' width='100%' height='750px'></iframe>
 
