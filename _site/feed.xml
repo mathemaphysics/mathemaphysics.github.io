@@ -3,8 +3,30 @@
 	<channel>
 		<title>CodogenyDN: Field Notes</title>
 		<description>Trying to make better simulations</description>
-		<link>https://mathemaphysics.github.io</link>
-		<atom:link href="https://mathemaphysics.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Neural Ordinary Differential Equations</title>
+			<description>&lt;h1 id=&quot;neural-ordinary-differential-equations&quot;&gt;Neural Ordinary Differential Equations&lt;/h1&gt;
+
+&lt;p&gt;Neural networks have been around for a long time. But the era of neural
+network computing has only recently become a big deal as a result of
+hardware which can perform the training process fast enough to be useful
+in real problems. The general structure of a deep architecture (and RBMs,
+restricted Boltzmann machines) is a sequence of layers consisting of nodes
+or neurons which individually connect to every node in both adjacent layers
+and to no other nodes in their own layers or any other non-adjacent layer.
+If we were to write down a mathematical structure of such a thing, it would
+look like the following.&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;x^{k+1}_i = W^k_{ij} x^k_j&lt;/script&gt;
+
+</description>
+			<pubDate>Tue, 29 Jan 2019 17:32:00 -0600</pubDate>
+			<link>http://localhost:4000//physics/simulation/2019/01/29/neural-ord-diff-eqs.html</link>
+			<guid isPermaLink="true">http://localhost:4000//physics/simulation/2019/01/29/neural-ord-diff-eqs.html</guid>
+		</item>
 		
 		<item>
 			<title>Calculating Propensity for Motion</title>
@@ -16,14 +38,14 @@ understanding the relationship between molecular structure and bulk viscosity.&l
 
 &lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
 
-&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;Tokuda2005&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;1&lt;/span&gt; H. Tokuda, K. Hayamizu, K. Ishii, M.A.B.H. Susan, and M. Watanabe, J. Phys. Chem. B &lt;b&gt;109&lt;/b&gt;, 6103 (2005).&lt;/span&gt;&lt;/li&gt;
+&lt;ol class=&quot;bibliography&quot; style=&quot;list-style: none&quot;&gt;&lt;li&gt;&lt;span id=&quot;Tokuda2005&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;1&lt;/span&gt; H. Tokuda, K. Hayamizu, K. Ishii, M.A.B.H. Susan, and M. Watanabe, J. Phys. Chem. B &lt;b&gt;109&lt;/b&gt;, 6103 (2005).&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;Abbott2007&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;2&lt;/span&gt; A.P. Abbott, R.C. Harris, and K.S. Ryder, J. Phys. Chem. B &lt;b&gt;111&lt;/b&gt;, 4910 (2007).&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span id=&quot;Abdul-Sada1990&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;3&lt;/span&gt; A.K. Abdul-Sada, S. Al-Juaid, A.M. Greenway, P.B. Hitchcock, M.J. Howells, K.R. Seddon, and T. Welton, Struct Chem &lt;b&gt;1&lt;/b&gt;, 391 (1990).&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
 
 </description>
 			<pubDate>Thu, 24 Jan 2019 21:23:49 -0600</pubDate>
-			<link>https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity.html</link>
-			<guid isPermaLink="true">https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity.html</guid>
+			<link>http://localhost:4000//physics/simulation/2019/01/24/computing-propensity.html</link>
+			<guid isPermaLink="true">http://localhost:4000//physics/simulation/2019/01/24/computing-propensity.html</guid>
 		</item>
 		
 		<item>
@@ -49,8 +71,8 @@ understanding the relationship between molecular structure and bulk viscosity.&l
 
 </description>
 			<pubDate>Mon, 21 Jan 2019 05:56:49 -0600</pubDate>
-			<link>https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</link>
-			<guid isPermaLink="true">https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</guid>
+			<link>http://localhost:4000//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</link>
+			<guid isPermaLink="true">http://localhost:4000//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</guid>
 		</item>
 		
 		<item>
@@ -71,8 +93,8 @@ understanding the relationship between molecular structure and bulk viscosity.&l
 
 </description>
 			<pubDate>Sun, 20 Jan 2019 09:15:25 -0600</pubDate>
-			<link>https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll.html</link>
-			<guid isPermaLink="true">https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll.html</guid>
+			<link>http://localhost:4000//jekyll/update/2019/01/20/welcome-to-jekyll.html</link>
+			<guid isPermaLink="true">http://localhost:4000//jekyll/update/2019/01/20/welcome-to-jekyll.html</guid>
 		</item>
 		
 	</channel>

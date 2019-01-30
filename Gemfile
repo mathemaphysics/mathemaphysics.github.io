@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-scholar"
   gem "csl-styles", "~> 1.0.1.9"
+  gem "kramdown"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
