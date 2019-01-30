@@ -3,8 +3,8 @@
 	<channel>
 		<title>CodogenyDN: Field Notes</title>
 		<description>Trying to make better simulations</description>
-		<link>http://localhost:4000</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://mathemaphysics.github.io</link>
+		<atom:link href="https://mathemaphysics.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Neural Ordinary Differential Equations</title>
@@ -24,8 +24,8 @@ look like the following.&lt;/p&gt;
 
 </description>
 			<pubDate>Tue, 29 Jan 2019 17:32:00 -0600</pubDate>
-			<link>http://localhost:4000//physics/simulation/2019/01/29/neural-ord-diff-eqs.html</link>
-			<guid isPermaLink="true">http://localhost:4000//physics/simulation/2019/01/29/neural-ord-diff-eqs.html</guid>
+			<link>https://mathemaphysics.github.io//physics/simulation/2019/01/29/neural-ord-diff-eqs.html</link>
+			<guid isPermaLink="true">https://mathemaphysics.github.io//physics/simulation/2019/01/29/neural-ord-diff-eqs.html</guid>
 		</item>
 		
 		<item>
@@ -44,8 +44,8 @@ understanding the relationship between molecular structure and bulk viscosity.&l
 
 </description>
 			<pubDate>Thu, 24 Jan 2019 21:23:49 -0600</pubDate>
-			<link>http://localhost:4000//physics/simulation/2019/01/24/computing-propensity.html</link>
-			<guid isPermaLink="true">http://localhost:4000//physics/simulation/2019/01/24/computing-propensity.html</guid>
+			<link>https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity.html</link>
+			<guid isPermaLink="true">https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity.html</guid>
 		</item>
 		
 		<item>
@@ -71,8 +71,8 @@ understanding the relationship between molecular structure and bulk viscosity.&l
 
 </description>
 			<pubDate>Mon, 21 Jan 2019 05:56:49 -0600</pubDate>
-			<link>http://localhost:4000//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</link>
-			<guid isPermaLink="true">http://localhost:4000//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</guid>
+			<link>https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</link>
+			<guid isPermaLink="true">https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</guid>
 		</item>
 		
 		<item>
@@ -93,8 +93,8 @@ understanding the relationship between molecular structure and bulk viscosity.&l
 
 </description>
 			<pubDate>Sun, 20 Jan 2019 09:15:25 -0600</pubDate>
-			<link>http://localhost:4000//jekyll/update/2019/01/20/welcome-to-jekyll.html</link>
-			<guid isPermaLink="true">http://localhost:4000//jekyll/update/2019/01/20/welcome-to-jekyll.html</guid>
+			<link>https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll.html</link>
+			<guid isPermaLink="true">https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll.html</guid>
 		</item>
 		
 	</channel>
