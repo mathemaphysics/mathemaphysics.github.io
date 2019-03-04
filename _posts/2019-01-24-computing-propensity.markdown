@@ -15,5 +15,5 @@ understanding the relationship between molecular structure and bulk viscosity.
 References
 ==========
 
-{% bibliography --file refs %}
+{% bibliography --file refs --cited %}
 
