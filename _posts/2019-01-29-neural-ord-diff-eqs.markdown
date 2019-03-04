@@ -2,7 +2,6 @@
 layout: post
 date:   2019-01-29 17:32:00 -0600
 title: "Neural Ordinary Differential Equations"
-subtitle: "Do they have anything to say?"
 categories: physics simulation
 comments: true
 ---
@@ -27,7 +26,7 @@ $$
 This is the ordinary form of a single layer of neural network in the context
 of deep learning. But there's a more interesting generalization of the neural
 network layer which might just make things work more efficiently in the future.
-This is the neural ordinary differential equation, or NODE {% cite Chen2018 --file refs %}
+This is the neural ordinary differential equation, or NODE {% cite Chen2018 --file refs %}.
 
 References
 ==========
