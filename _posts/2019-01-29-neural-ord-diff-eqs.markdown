@@ -32,6 +32,6 @@ This is the neural ordinary differential equation, or NODE {% cite Chen2018 --fi
 References
 ==========
 
-{% bibliography --file refs %}
+{% bibliography --file refs --cited %}
 
 
