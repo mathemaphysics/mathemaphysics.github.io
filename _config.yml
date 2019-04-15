@@ -28,11 +28,11 @@ github_username:  mathemaphysics
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-scholar
-    #  - jekyll-seo-tag
+  - jekyll-seo-tag
 
 feed:
   path: feed.xml
