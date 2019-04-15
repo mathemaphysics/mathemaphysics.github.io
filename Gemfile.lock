@@ -193,6 +193,8 @@ GEM
     jekyll-theme-slate (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-space (1.0.2)
+      jekyll (~> 3.6)
     jekyll-theme-tactile (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -261,7 +263,9 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-scholar
+  jekyll-seo-tag
   jekyll-theme-cayman (~> 0.1.1)
+  jekyll-theme-space
   kramdown
   tzinfo-data
 

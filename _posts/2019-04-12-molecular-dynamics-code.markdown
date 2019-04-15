@@ -20,5 +20,59 @@ simple as possible.
 Classes and Data Structures
 ===========================
 
+When you're working with atoms things aren't so bad. But when
+we take the jump to interacting molecules, things get really
+nasty really quickly. So for now we'll start with atomic
+systems only. I'll expand on the code in a follow-up article
+in the future.
 
+The items which will be necessary for use in any code that does
+a simulation with atoms inside of a box will include the box properties,
+atom properties (mass, charge, etc.) and their dynamical variables,
+i.e. the positions and velocities.
+
+So let's start with a `Box` class.
+
+```cpp
+#include <iostream>
+
+/**
+ * The box class
+ */
+class Box
+{
+    /**
+     * Public functions are visible from an
+     * instantiated Box class object
+     */
+    public:
+        /**
+         * Constructors and destructor
+         */
+        Box();
+        Box(double);
+        Box(double, double, double);
+        ~Box();
+
+        /**
+         * Helper functions
+         */ 
+        int set_x(double);
+        int set_y(double);
+        int set_z(double);
+        int set_box(double, double, double);
+
+    /**
+     * Internal functions not usable
+     * from outside class functions
+     */
+    private:
+        int ndim;
+        double dims[3]; 
+}
+```
+
+But for the purposes of this tutorial you can probably
+just skip this step all together. It's just a good practice
+in object-oriented programming. Now we'll build
 

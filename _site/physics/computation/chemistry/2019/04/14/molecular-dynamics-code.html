@@ -45,6 +45,61 @@ simple as possible.</p>
 
 <h1 id="classes-and-data-structures">Classes and Data Structures</h1>
 
+<p>When you’re working with atoms things aren’t so bad. But when
+we take the jump to interacting molecules, things get really
+nasty really quickly. So for now we’ll start with atomic
+systems only. I’ll expand on the code in a follow-up article
+in the future.</p>
+
+<p>The items which will be necessary for use in any code that does
+a simulation with atoms inside of a box will include the box properties,
+atom properties (mass, charge, etc.) and their dynamical variables,
+i.e. the positions and velocities.</p>
+
+<p>So let’s start with a <code class="highlighter-rouge">Box</code> class.</p>
+
+<div class="language-cpp highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">#include &lt;iostream&gt;
+</span>
+<span class="cm">/**
+ * The box class
+ */</span>
+<span class="k">class</span> <span class="nc">Box</span>
+<span class="p">{</span>
+    <span class="cm">/**
+     * Public functions are visible from an
+     * instantiated Box class object
+     */</span>
+    <span class="k">public</span><span class="o">:</span>
+        <span class="cm">/**
+         * Constructors and destructor
+         */</span>
+        <span class="n">Box</span><span class="p">();</span>
+        <span class="n">Box</span><span class="p">(</span><span class="kt">double</span><span class="p">);</span>
+        <span class="n">Box</span><span class="p">(</span><span class="kt">double</span><span class="p">,</span> <span class="kt">double</span><span class="p">,</span> <span class="kt">double</span><span class="p">);</span>
+        <span class="o">~</span><span class="n">Box</span><span class="p">();</span>
+
+        <span class="cm">/**
+         * Helper functions
+         */</span> 
+        <span class="kt">int</span> <span class="n">set_x</span><span class="p">(</span><span class="kt">double</span><span class="p">);</span>
+        <span class="kt">int</span> <span class="n">set_y</span><span class="p">(</span><span class="kt">double</span><span class="p">);</span>
+        <span class="kt">int</span> <span class="n">set_z</span><span class="p">(</span><span class="kt">double</span><span class="p">);</span>
+        <span class="kt">int</span> <span class="n">set_box</span><span class="p">(</span><span class="kt">double</span><span class="p">,</span> <span class="kt">double</span><span class="p">,</span> <span class="kt">double</span><span class="p">);</span>
+
+    <span class="cm">/**
+     * Internal functions not usable
+     * from outside class functions
+     */</span>
+    <span class="k">private</span><span class="o">:</span>
+        <span class="kt">int</span> <span class="n">ndim</span><span class="p">;</span>
+        <span class="kt">double</span> <span class="n">dims</span><span class="p">[</span><span class="mi">3</span><span class="p">];</span> 
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>But for the purposes of this tutorial you can probably
+just skip this step all together. It’s just a good practice
+in object-oriented programming. Now we’ll build</p>
+
 
 
 
