@@ -100,7 +100,7 @@ look like the following.&lt;/p&gt;
 &lt;p&gt;This is the ordinary form of a single layer of neural network in the context
 of deep learning. But there’s a more interesting generalization of the neural
 network layer which might just make things work more efficiently in the future.
-This is the neural ordinary differential equation, or NODE &lt;a href=&quot;#Chen2018&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;1&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+This is the neural ordinary differential equation, or NODE &lt;a class=&quot;citation&quot; href=&quot;#Chen2018&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;1&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
 
@@ -115,7 +115,7 @@ This is the neural ordinary differential equation, or NODE &lt;a href=&quot;#Che
 		<item>
 			<title>Calculating Propensity for Motion</title>
 			<description>&lt;p&gt;There have been some more or less recent journal articles written by Asaph
-Widmer-Cooper et al. &lt;a href=&quot;#Tokuda2005&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;1&lt;/span&gt;&lt;/a&gt; using the topic of using
+Widmer-Cooper et al. &lt;a class=&quot;citation&quot; href=&quot;#Tokuda2005&quot;&gt;&lt;span style=&quot;vertical-align: super&quot;&gt;1&lt;/span&gt;&lt;/a&gt; using the topic of using
 the dynamic propensity to give insight into the dynamics of glassy liquids. The
 topic came up in my line of work as a result of its potential applications in
 understanding the relationship between molecular structure and bulk viscosity.&lt;/p&gt;
