@@ -12,8 +12,9 @@ comments: true
   {% endfor %}
 </ul>
 
+<!--
 <h2>Recent Progress</h2>
 <blockquote class="trello-card"><a href="https://trello.com/c/ULG2wi9l/1-combine-python-binance-and-coinbase-apis">Combine Python Binance and Coinbase APIs</a></blockquote><script src="https://p.trellocdn.com/embed.min.js"></script>
 <blockquote class="trello-card"><a href="https://trello.com/c/xIRIxcBP/52-wavelet-transform-for-image-analysis-in-python">Wavelet Transform for Image Analysis in Python</a></blockquote><script src="https://p.trellocdn.com/embed.min.js"></script>
-
+-->
 
