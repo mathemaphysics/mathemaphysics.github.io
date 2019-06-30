@@ -26,12 +26,12 @@ feed_update_frequency: 1
 twitter_username: NuckChorris16
 github_username:  mathemaphysics
 
-cover: "/test/fig001-delta-002-1.png"
+#cover: "/test/fig001-delta-002-1.png"
 
 # Build settings
 markdown: kramdown
 highlighter: pygments
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-scholar
