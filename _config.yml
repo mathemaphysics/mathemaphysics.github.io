@@ -31,7 +31,7 @@ github_username:  mathemaphysics
 # Build settings
 markdown: kramdown
 highlighter: pygments
-theme: jekyll-theme-midnight
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
   - jekyll-scholar
