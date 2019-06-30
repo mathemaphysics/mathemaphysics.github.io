@@ -18,21 +18,24 @@ email: mathemaphysics@gmail.com
 name: "CodogenyDN: Field Notes"
 description: >- # this means to ignore newlines until "baseurl:"
         Trying to make better simulations
-baseurl:
-url: "https://mathemaphysics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 
+url: http://mathemaphysics.github.io # the base hostname & protocol for your site, e.g. http://example.com
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
 twitter_username: NuckChorris16
 github_username:  mathemaphysics
 
+cover: "/test/fig001-delta-002-1.png"
+
 # Build settings
 markdown: kramdown
+highlighter: pygments
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
   - jekyll-scholar
-  - jekyll-seo-tag
+  - jekyll-coffeescript
 
 feed:
   path: feed.xml

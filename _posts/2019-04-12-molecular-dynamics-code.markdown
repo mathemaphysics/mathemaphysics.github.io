@@ -41,31 +41,17 @@ So let's start with a `Box` class.
  */
 class Box
 {
-    /**
-     * Public functions are visible from an
-     * instantiated Box class object
-     */
     public:
-        /**
-         * Constructors and destructor
-         */
         Box();
         Box(double);
         Box(double, double, double);
         ~Box();
 
-        /**
-         * Helper functions
-         */ 
         int set_x(double);
         int set_y(double);
         int set_z(double);
         int set_box(double, double, double);
 
-    /**
-     * Internal functions not usable
-     * from outside class functions
-     */
     private:
         int ndim;
         double dims[3]; 

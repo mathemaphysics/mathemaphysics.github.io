@@ -3,8 +3,8 @@
 	<channel>
 		<title>CodogenyDN: Field Notes</title>
 		<description>Trying to make better simulations</description>
-		<link>https://mathemaphysics.github.io</link>
-		<atom:link href="https://mathemaphysics.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Writing a Simple Molecular Dynamics Code in C++</title>
@@ -77,8 +77,8 @@ in object-oriented programming. Now we’ll build&lt;/p&gt;
 
 </description>
 			<pubDate>Sun, 14 Apr 2019 07:40:41 -0500</pubDate>
-			<link>https://mathemaphysics.github.io//physics/computation/chemistry/2019/04/14/molecular-dynamics-code.html</link>
-			<guid isPermaLink="true">https://mathemaphysics.github.io//physics/computation/chemistry/2019/04/14/molecular-dynamics-code.html</guid>
+			<link>http://localhost:4000//physics/computation/chemistry/2019/04/14/molecular-dynamics-code.html</link>
+			<guid isPermaLink="true">http://localhost:4000//physics/computation/chemistry/2019/04/14/molecular-dynamics-code.html</guid>
 		</item>
 		
 		<item>
@@ -108,8 +108,8 @@ This is the neural ordinary differential equation, or NODE &lt;a class=&quot;cit
 
 </description>
 			<pubDate>Tue, 29 Jan 2019 17:32:00 -0600</pubDate>
-			<link>https://mathemaphysics.github.io//physics/simulation/2019/01/29/neural-ord-diff-eqs.html</link>
-			<guid isPermaLink="true">https://mathemaphysics.github.io//physics/simulation/2019/01/29/neural-ord-diff-eqs.html</guid>
+			<link>http://localhost:4000//physics/simulation/2019/01/29/neural-ord-diff-eqs.html</link>
+			<guid isPermaLink="true">http://localhost:4000//physics/simulation/2019/01/29/neural-ord-diff-eqs.html</guid>
 		</item>
 		
 		<item>
@@ -126,8 +126,8 @@ understanding the relationship between molecular structure and bulk viscosity.&l
 
 </description>
 			<pubDate>Thu, 24 Jan 2019 21:23:49 -0600</pubDate>
-			<link>https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity.html</link>
-			<guid isPermaLink="true">https://mathemaphysics.github.io//physics/simulation/2019/01/24/computing-propensity.html</guid>
+			<link>http://localhost:4000//physics/simulation/2019/01/24/computing-propensity.html</link>
+			<guid isPermaLink="true">http://localhost:4000//physics/simulation/2019/01/24/computing-propensity.html</guid>
 		</item>
 		
 		<item>
@@ -153,8 +153,8 @@ understanding the relationship between molecular structure and bulk viscosity.&l
 
 </description>
 			<pubDate>Mon, 21 Jan 2019 05:56:49 -0600</pubDate>
-			<link>https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</link>
-			<guid isPermaLink="true">https://mathemaphysics.github.io//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</guid>
+			<link>http://localhost:4000//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</link>
+			<guid isPermaLink="true">http://localhost:4000//thermodynamics/physics/deeplearn/2019/01/21/ionic-liquid-glassiness.html</guid>
 		</item>
 		
 		<item>
@@ -175,8 +175,8 @@ understanding the relationship between molecular structure and bulk viscosity.&l
 
 </description>
 			<pubDate>Sun, 20 Jan 2019 09:15:25 -0600</pubDate>
-			<link>https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll.html</link>
-			<guid isPermaLink="true">https://mathemaphysics.github.io//jekyll/update/2019/01/20/welcome-to-jekyll.html</guid>
+			<link>http://localhost:4000//jekyll/update/2019/01/20/welcome-to-jekyll.html</link>
+			<guid isPermaLink="true">http://localhost:4000//jekyll/update/2019/01/20/welcome-to-jekyll.html</guid>
 		</item>
 		
 	</channel>
