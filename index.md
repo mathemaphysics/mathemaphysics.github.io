@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+$$ f(x) = \int_0^1 g(x,y) dy $$
+
 ```markdown
 Syntax highlighted code block
 
