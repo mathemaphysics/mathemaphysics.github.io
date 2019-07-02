@@ -15,8 +15,8 @@ version of math rendering installed. If you have latex
 installed in your browser, you should be able to see the
 following expression:
 
-<math>
+$$
     u(x) = \int_\mathcal{D} g(x-y) u(y)\,dy
-</math>
+$$
 
 # vim: tw=60:ts=4:sts=4:sw=4:et:sta
