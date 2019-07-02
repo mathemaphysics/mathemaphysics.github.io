@@ -21,4 +21,3 @@ $$
     u(x) = \int_\mathcal{D} g(x-y) u(y)\,dy
 $$
 
-# vim: tw=60:ts=4:sts=4:sw=4:et:sta
