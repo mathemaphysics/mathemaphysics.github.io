@@ -3,6 +3,8 @@ layout: default
 title: "Making Myself Useful"
 ---
 
+{% include lib/mathjax.html %}
+
 # Welcome
 I'm going to try to post videos and tutorials here which are
 useful to students of chemical physics, physics, and
