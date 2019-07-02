@@ -1,8 +1,22 @@
 ---
 layout: default
-title: "Welcome to My Blog"
+title: "Making Myself Useful"
 ---
 
 # Welcome
-This is just a test.
+I'm going to try to post videos and tutorials here which are
+useful to students of chemical physics, physics, and
+programming, for applied mathematics, science and general
+applications.
 
+# Some Tests
+Let's start by checking to make sure we have a working
+version of math rendering installed. If you have $\LaTeX$
+installed in your browser, you should be able to see the
+following expression:
+
+$$
+    \displaystyle u(x) = \int_\mathcal{D} g(x-y) u(y)\,dy
+$$
+
+# vim: tw=60:ts=4:sts=4:sw=4:et:sta
