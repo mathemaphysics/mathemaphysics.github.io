@@ -21,3 +21,5 @@ $$
     u(x) = \int_\mathcal{D} g(x-y) u(y)\,dy
 $$
 
+What about $$u(x)$$ or $$v(x)$$?
+
